@@ -1,5 +1,6 @@
 # Web server
 Flask>=2.0.0
+gunicorn>=20.0.4
 
 # Data processing
 networkx>=2.6.0
